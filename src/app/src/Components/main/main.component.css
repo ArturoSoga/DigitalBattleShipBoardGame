@@ -1,0 +1,19 @@
+.imageicon{
+    /* display: contents;
+    margin-left: 50%;
+    margin-right: 50%; */
+  width:100%;
+  height:500px;
+  background-position-x: center;
+  background-image:url("../../../../assets/png/icon.png");
+  background-repeat: no-repeat;
+  background-size: 350px
+}
+
+html, body { height: 100%; }
+body ,.bg{
+     margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; 
+    background-repeat:no-repeat;
+    background-image: url('../../../../assets/jpg/Oceanbackground.jpg');
+    background-size:cover;
+}
